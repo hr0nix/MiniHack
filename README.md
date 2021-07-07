@@ -126,10 +126,9 @@ the results of the MiniHack paper, can be found in [this
 document](./nle/agent/README.md).
 We also provide baseline learning curves of the MiniHack paper in Weights&Biases format for all of our experiments. They can be accessed [here](https://wandb.ai/minihack).
 
-# Contributing
+# Contributions and Maintenance 
 
-We welcome contributions to MiniHack. If you are interested in contributing please 
-see [this document](./CONTRIBUTING.md) 
+We welcome contributions to MiniHack. If you are interested in contributing please see [this document](./CONTRIBUTING.md). Detailed information on how MiniHack benchmark is maintained can be found [here](./MAINTENANCE.md).
 
 # Citation
  
