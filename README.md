@@ -58,7 +58,7 @@ conda activate minihack
 Then, install the MiniHack package. 
 
 ``` bash
-git clone https://github.com/ucl-dark/minihack 
+git clone https://github.com/MiniHackPlanet/minihack 
 cd minihack
 pip install git+https://github.com/facebookresearch/nle.git # TODO update this after 0.7.3 release
 pip install -e ".[dev]"
