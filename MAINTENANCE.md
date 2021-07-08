@@ -35,4 +35,4 @@ Yes, instructions on how to contribute to MiniHack are descripted [here](./CONTR
 
 ## How are issues being solved?
 
-We use GitHub issues to track public bugs. 
+We use GitHub issues to track public bugs. Feel free to open an issue by carefully following instructions for bug reports and feature requests.
