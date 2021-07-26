@@ -1,20 +1,10 @@
 ## Who is maintaining and hosting the benchmark?
 
-The MiniHack benchmark is hosted on GitHub and is maintained by the following people: 
-- Mikayel Samvelyan 
-- Robert Kirk 
-- Vitaly Kurin 
-- Jack Parker-Holder 
-- Minqi Jiang 
-- Eric Hambro 
-- Fabio Petroni 
-- Heinrich Küttler
-- Edward Grefenstette 
-- Tim Rocktäschel
+The MiniHack benchmark is hosted on GitHub and is maintained by [its authors](./README.md#citation).
 
 ## How can the manager of the benchmark be contacted?
 
-The manager of the benchmark can be contacted by the following email: samvelyan@fb.com
+The maintainer of the MiniHack can be contacted by the following email: samvelyan [AT] fb [DOT] com
 
 ## Will the benchmark be updated?
 

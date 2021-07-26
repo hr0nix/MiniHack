@@ -58,9 +58,8 @@ conda activate minihack
 Then, install the MiniHack package. 
 
 ``` bash
-git clone https://github.com/MiniHackPlanet/minihack 
+git clone https://github.com/ucl-dark/minihack 
 cd minihack
-pip install git+https://github.com/facebookresearch/nle.git # TODO update this after 0.7.3 release
 pip install -e ".[dev]"
 pre-commit install
 ```
@@ -126,9 +125,9 @@ the results of the MiniHack paper, can be found in [this
 document](./nle/agent/README.md).
 We also provide baseline learning curves of the MiniHack paper in Weights&Biases format for all of our experiments. They can be accessed [here](https://wandb.ai/minihack).
 
-# Contributions and Maintenance 
+# Contributions and Maintenance
 
-We welcome contributions to MiniHack. If you are interested in contributing please see [this document](./CONTRIBUTING.md). Detailed information on how MiniHack benchmark is maintained can be found [here](./MAINTENANCE.md).
+We welcome contributions to MiniHack. If you are interested in contributing please see [this document](./CONTRIBUTING.md). MiniHack's maintence plan can be found [here](./MAINTENANCE.md).
 
 # Citation
  
