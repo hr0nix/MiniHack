@@ -58,7 +58,7 @@ conda activate minihack
 Then, install the MiniHack package. 
 
 ``` bash
-git clone https://github.com/ucl-dark/minihack 
+git clone https://github.com/MiniHackPlanet/minihack 
 cd minihack
 pip install -e ".[dev]"
 pre-commit install
