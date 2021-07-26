@@ -127,7 +127,7 @@ We also provide baseline learning curves of the MiniHack paper in Weights&Biases
 
 # Contributions and Maintenance
 
-We welcome contributions to MiniHack. If you are interested in contributing please see [this document](./CONTRIBUTING.md). MiniHack's maintence plan can be found [here](./MAINTENANCE.md).
+We welcome contributions to MiniHack. If you are interested in contributing please see [this document](./CONTRIBUTING.md). MiniHack's maintenance plan can be found [here](./MAINTENANCE.md).
 
 # Citation
  
