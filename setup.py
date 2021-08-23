@@ -94,7 +94,7 @@ if __name__ == "__main__":
         packages=packages,
         install_requires=["nle>=0.7.3", "numpy>=1.16", "gym>=0.15"],
         extras_require=extras_deps,
-        python_requires=">=3.7",
+        python_requires=">=3.6",
         classifiers=[
             "License :: OSI Approved :: Nethack General Public License",
             "Development Status :: 4 - Beta",
