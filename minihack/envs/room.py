@@ -66,7 +66,7 @@ registration.register(
 )
 registration.register(
     id="MiniHack-Room-Random-5x5-v0",
-    entry_point="minihack.envs.room:MiniHack5x5Random",
+    entry_point="minihack.envs.room:MiniHackRoom5x5Random",
 )
 registration.register(
     id="MiniHack-Room-Dark-5x5-v0",
